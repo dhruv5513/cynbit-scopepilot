@@ -13,3 +13,6 @@ __pycache__/
 # IDE and OS files
 .DS_Store
 Thumbs.db
+
+# Raw threat intelligence datasets
+data/*.json
